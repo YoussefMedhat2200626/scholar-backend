@@ -1,0 +1,40 @@
+{
+  "jobs": [
+    {
+      "title": "AMS Engineer",
+      "company": "Mixel-Egypt",
+      "location": "Cairo, Egypt",
+      "job_type": "Full-time",
+      "url": "https://www.linkedin.com/jobs/view/ams-engineer-at-mixel-egypt",
+      "tags_json": "[\"Engineering\", \"Hardware\", \"AMS\"]",
+      "first_seen_at": "2026-09-02T12:00:00.000Z"
+    },
+    {
+      "title": "Accountant – Accounts Payable (Junior)",
+      "company": "Mixel-Egypt",
+      "location": "Cairo, Egypt",
+      "job_type": "Full-time",
+      "url": "https://www.linkedin.com/jobs/view/accountant",
+      "tags_json": "[\"Junior\", \"Accounting\", \"Finance\"]",
+      "first_seen_at": "2026-08-25T12:00:00.000Z"
+    },
+    {
+      "title": "Senior HR Operations Specialist",
+      "company": "Mixel-Egypt",
+      "location": "Cairo, Egypt",
+      "job_type": "Full-time",
+      "url": "https://www.linkedin.com/jobs/view/senior-hr",
+      "tags_json": "[\"Senior\", \"HR\", \"Operations\"]",
+      "first_seen_at": "2026-08-10T12:00:00.000Z"
+    },
+    {
+      "title": "GLOBAL SENIOR TECHNICAL TALENT ACQUISITION LEAD",
+      "company": "Mixel-Egypt",
+      "location": "Cairo, Egypt",
+      "job_type": "Full-time",
+      "url": "https://www.linkedin.com/jobs/view/talent-acquisition",
+      "tags_json": "[\"Senior\", \"HR\", \"Talent Acquisition\"]",
+      "first_seen_at": "2026-08-10T12:00:00.000Z"
+    }
+  ]
+}

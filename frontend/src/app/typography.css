@@ -1,0 +1,61 @@
+@theme inline {
+    --font-sans: var(--font-kanit-source);
+    --font-mono: var(--font-geist-mono);
+    --font-main: var(--font-kanit);
+    --font-secondary: var(--font-kadwa);
+
+    --text-h1: 3rem;
+    --text-h1--line-height: 1.05;
+    --text-h1--font-weight: 700;
+
+    --text-h1-sm: 2.5rem;
+    --text-h1-sm--line-height: 1.25;
+    --text-h1-sm--font-weight: 700;
+
+    --text-h2: 2.25rem;
+    --text-h2--line-height: 1.4;
+    --text-h2--font-weight: 500;
+
+    --text-h2-sm: 2rem;
+    --text-h2-sm--line-height: 1.1;
+    --text-h2-sm--font-weight: 700;
+
+    --text-h3: 1.625rem;
+    --text-h3--line-height: 1.15;
+    --text-h3--font-weight: 700;
+
+    --text-h3-sm: 1.5rem;
+    --text-h3-sm--line-height: 1.2;
+    --text-h3-sm--font-weight: 400;
+
+    --text-h4: 1.25rem;
+    --text-h4--line-height: 1.5;
+    --text-h4--font-weight: 400;
+
+    --text-h4-sm: 1.125rem;
+    --text-h4-sm--line-height: 1.2;
+    --text-h4-sm--font-weight: 500;
+
+    --text-btn: 1.25rem;
+    --text-btn--line-height: 1.2;
+    --text-btn--font-weight: 400;
+
+    --text-caption: 1rem;
+    --text-caption--line-height: 1.25;
+    --text-caption--font-weight: 500;
+
+    --text-subtext: 1rem;
+    --text-subtext--line-height: 1.5;
+    --text-subtext--font-weight: 400;
+
+    --text-eyebrow: 1.25rem;
+    --text-eyebrow--line-height: 1.4;
+    --text-eyebrow--font-weight: 700;
+
+    --text-stat: 2.5rem;
+    --text-stat--line-height: 1;
+    --text-stat--font-weight: 700;
+
+    --tracking-display: 0.05em;
+    --tracking-eyebrow: 0.1em;
+}

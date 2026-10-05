@@ -1,0 +1,5 @@
+requests>=2.31.0
+PyYAML>=6.0.0
+psycopg2-binary>=2.9.9
+
+curl_cffi>=0.16.3
