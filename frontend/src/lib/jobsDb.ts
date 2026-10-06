@@ -127,7 +127,7 @@ export async function markJobAsTaken(id: number | string): Promise<{ success: bo
 
   const pool = getPool();
   await pool.query(
-    `UPDATE jobs SET is_taken = true, last_checked_at = $1 WHERE id = $2`,
+    `UPDATE jobs SET "isTaken" = true, "lastCheckedAt" = $1::timestamptz WHERE id = $2`,
     [now, id]
   );
   return { success: true, message: 'Job marked as taken in database' };
